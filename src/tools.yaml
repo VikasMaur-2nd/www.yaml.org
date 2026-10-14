@@ -25,6 +25,11 @@ Utilities:
   site: https://yamline.com/
   icon: material-tools
   type: web
+- name: Tool Kumar
+  desc: Convert JSON to YAML in the browser without uploading documents or requiring a login
+  site: https://tools.vikasmaur.com/tools/json-to-yaml
+  icon: material-file-document
+  type: web
 
 Linters & Validators:
 - name: yamllint
